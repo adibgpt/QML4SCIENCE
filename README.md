@@ -35,13 +35,15 @@ Contains scripts for processing raw image datasets into formats suitable for mac
 ### **3. `Scripts/`**
 Contains scripts for building and training a classical neural network using PyTorch. These scripts include everything from data preparation to model training and evaluation.
 
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/21036fe1a95de665d9b709fd798cb74b240d0f28/Images/with-without%20cavity.png)
+
 - **Key Features**:
   - Data loading and visualization.
   - Training a classical Perceptron model.
   - Evaluating model performance using metrics and confusion matrices.
   - Visualizing predictions on test data.
 
-![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/21036fe1a95de665d9b709fd798cb74b240d0f28/Images/with-without%20cavity.png)
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/54cb93745caacb9a4179c6bd7c9e3f6fe727ec0e/Images/confusion%20matrix-perceptron.png)
 
 ---
 
