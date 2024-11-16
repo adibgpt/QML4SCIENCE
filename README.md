@@ -59,6 +59,8 @@ This folder includes scripts for building, training, and evaluating a hybrid qua
   - Visualizing training loss and accuracy.
   - Evaluating the hybrid model and visualizing predictions.
 
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/5c6c31a7a44c4f59aabbe7cacc3477d4d965eaae/Images/prediction.png)
+
 ---
 
 ### **5. `LICENSE`**
