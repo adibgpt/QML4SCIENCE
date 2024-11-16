@@ -50,6 +50,8 @@ Contains scripts for building and training a classical neural network using PyTo
 ### **4. `Scripts-quantum/`**
 This folder includes scripts for building, training, and evaluating a hybrid quantum-classical neural network using PyTorch and Qiskit.
 
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/1290ab0dadb03850ff7c6e3210181ce25c748a63/Images/Density%20matrix.png)
+
 - **Key Features**:
   - Building quantum neural networks (QNNs) with Qiskit.
   - Creating hybrid models that combine classical layers with quantum layers.
