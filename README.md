@@ -39,6 +39,8 @@ Contains scripts for building and training a classical neural network using PyTo
   - Evaluating model performance using metrics and confusion matrices.
   - Visualizing predictions on test data.
 
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/21036fe1a95de665d9b709fd798cb74b240d0f28/Images/with-without%20cavity.png)
+
 ---
 
 ### **4. `Scripts-quantum/`**
