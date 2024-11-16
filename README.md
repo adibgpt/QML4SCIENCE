@@ -19,6 +19,8 @@ This folder contains scripts and utilities for augmenting datasets by adding noi
 ### **2. `Preprocessing/`**
 Contains scripts for processing raw image datasets into formats suitable for machine learning. These include splitting datasets, labeling images, and creating train-test splits.
 
+![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/0ff590561a991e88525bf6ad6bb321c5a4a1b59b/Images/snapshots.png)
+
 - **Key Features**:
   - Reading CSV files with image metadata.
   - Randomly splitting datasets into training and testing sets.
