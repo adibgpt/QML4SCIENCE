@@ -24,6 +24,7 @@ Contains scripts for processing raw image datasets into formats suitable for mac
   - Randomly splitting datasets into training and testing sets.
   - Organizing and copying images into structured folders.
 
+
 ![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/23639223bddb2b2243a006426ac530c4479204f3/Images/With-cavity/1%20(1).png) 
 ![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/6252f95658bde1b38eba89bdb7029b43f1556583/Images/Without-cavity/1%20(1).png)
 
