@@ -3,7 +3,7 @@
 
 This repository is designed for quantum-classical hybrid machine learning for image classification. It is organized into the following folders and files:
 
-![cavity](https://github.com/adibgpt/QML4SCIENCE/blob/c0bccfbf6b641853e9f44209f6b59866a8572c82/Videos/Direct%20numerical%20simulation%20of%20airfoil%20with%20vortex%20trapping%20cavity%20%20Penlized%20Vortex%20particle%20method.mp4)
+[cavity](https://github.com/adibgpt/QML4SCIENCE/blob/c0bccfbf6b641853e9f44209f6b59866a8572c82/Videos/Direct%20numerical%20simulation%20of%20airfoil%20with%20vortex%20trapping%20cavity%20%20Penlized%20Vortex%20particle%20method.mp4)
 
 
 ## Folder Structure
