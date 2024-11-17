@@ -5,6 +5,8 @@ This repository is designed for quantum-classical hybrid machine learning for im
 
 [Direct Numerical Simulation of Airfoil with Vortex Trapping Cavity](https://github.com/adibgpt/QML4SCIENCE/blob/fcfcfeed1326bd9a24d81339262e2a0dcf8590bb/Videos/Direct%20numerical%20simulation%20of%20airfoil%20with%20vortex%20trapping%20cavity%20%20Penlized%20Vortex%20particle%20method.mp4)
 
+[Direct Numerical Simulation of Airfoil without Vortex Trapping Cavity](https://github.com/adibgpt/QML4SCIENCE/blob/8dacc969cc72f515afe90a578398090ff9a68cda/Videos/Direct%20numerical%20simulation%20of%20the%20airfoil%20-%20Penalized%20vortex%20particle%20method.mp4)
+
 ## Folder Structure
 
 ### **1. `Noisy dataset/`**
