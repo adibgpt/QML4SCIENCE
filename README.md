@@ -11,6 +11,8 @@ This repository is designed for quantum-classical hybrid machine learning for im
 
 [DNS of CO2 Seqestration (Ra=16000)](https://github.com/adibgpt/QML4SCIENCE/blob/55fdfa087130a857343b852d210f2880a2ce8d3d/Videos/DNS%20of%20CO2%20Seqestration%20(Ra%3D16000)%20(Fortran%20%2B%20MatLab).mp4)
 
+[Fluid Flow around a Cylinder](https://github.com/adibgpt/QML4SCIENCE/blob/d5e6573001a823236bf938cee766f39f88aeae79/Videos/Effect%20of%20Reynolds%20Number%20on%20Fluid%20Flow%20around%20a%20Cylinder.mp4)
+
 ## Folder Structure
 
 ### **1. `Noisy dataset/`**
