@@ -1,7 +1,7 @@
 
 # Quantum Classification
 
-This repository is designed for quantum-classical hybrid machine learning for image classification. It is organized into the following folders and files:
+This repository is designed for quantum-classical hybrid machine learning for different canonical fluid dynamics and heat transfer usecases. It is organized into the following folders and files:
 
 [Direct Numerical Simulation of Airfoil with Vortex Trapping Cavity](https://github.com/adibgpt/QML4SCIENCE/blob/fcfcfeed1326bd9a24d81339262e2a0dcf8590bb/Videos/Direct%20numerical%20simulation%20of%20airfoil%20with%20vortex%20trapping%20cavity%20%20Penlized%20Vortex%20particle%20method.mp4)
 
