@@ -9,6 +9,8 @@ This repository is designed for quantum-classical hybrid machine learning for im
 
 [Turbulent channel flow](https://github.com/adibgpt/QML4SCIENCE/blob/a45f879991c22f3d789fcbeb9532860eb58e9578/Videos/Turbulent%20channel%20flow%20(Direct%20Numerical%20Simulation).mp4)
 
+[DNS of CO2 Seqestration (Ra=16000)](https://github.com/adibgpt/QML4SCIENCE/blob/55fdfa087130a857343b852d210f2880a2ce8d3d/Videos/DNS%20of%20CO2%20Seqestration%20(Ra%3D16000)%20(Fortran%20%2B%20MatLab).mp4)
+
 ## Folder Structure
 
 ### **1. `Noisy dataset/`**
